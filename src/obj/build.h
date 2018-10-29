@@ -1,0 +1,2 @@
+#define BUILD_SUFFIX beta
+#define BUILD_DATE "2018-08-01 21:55:14 +0300"
